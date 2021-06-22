@@ -2,3 +2,4 @@ Gitflow
 Commit1
 Commit2
 Commit3
+count_all
